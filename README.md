@@ -1,31 +1,43 @@
-# 개발 포트폴리오
+![Jimin Kook — Developer Portfolio](portfolio-banner.svg)
 
-Android와 웹을 오가며, 아이디어를 실제로 써볼 수 있는 제품 경험으로 만드는 개발자입니다.
+<div align="center">
+<h3>아이디어를, 직접 써볼 수 있는 경험으로.</h3>
+<p>안녕하세요, 국지민입니다.<br/>Android 앱과 웹 인터랙션을 만들고, AI와 외부 API를 사용자 흐름에 연결합니다.</p>
+<p><a href="https://app.notion.com/p/3b7694a294028144a9a1de534fa21cb3"><strong>Notion Portfolio ↗</strong></a> · <a href="https://librumlego.github.io/bullet-reclaimer/">Play a project ↗</a></p>
+</div>
 
-문제를 정의하고, 화면 흐름을 설계하고, 데이터·외부 API·배포까지 연결하는 작업을 좋아합니다.
+## Selected work
 
-## 공개 프로젝트
+<table>
+<tr><td width="30%"><strong>🍳 <a href="https://github.com/LibrumLego/Toma">TOMA</a></strong><br/><sub>AI KITCHEN ASSISTANT</sub></td><td>텍스트·음성·사진·링크를 레시피와 조리 흐름으로 연결하는 Android 앱.<br/><br/><code>Kotlin · Jetpack Compose · Room · OpenAI API</code><br/><br/><a href="https://app.notion.com/p/3b7694a2940281ebba01d45143ddacb9">프로젝트 스토리 ↗</a></td></tr>
+<tr><td width="30%"><strong>🎮 <a href="https://github.com/LibrumLego/bullet-reclaimer">Bullet Reclaimer</a></strong><br/><sub>ONE BULLET. EVERY DECISION.</sub></td><td>시간을 멈춰 도탄을 설계하고, 단 한 발의 탄환을 직접 회수하는 웹 액션 게임.<br/><br/><code>TypeScript · Phaser 3 · Vite · GitHub Pages</code><br/><br/><a href="https://app.notion.com/p/3b7694a29402810e9b12d686ce72df94">프로젝트 스토리 ↗</a> · <a href="https://librumlego.github.io/bullet-reclaimer/">Live demo ↗</a></td></tr>
+<tr><td width="30%"><strong>〰️ <a href="https://github.com/LibrumLego/tremor-station">Tremor Station</a></strong><br/><sub>MOTION INTO INTERACTION</sub></td><td>센서 입력을 파형·게이지·결과·기록으로 보여 주는 앱인토스 미니앱.<br/><br/><code>React · TypeScript · Vite · Apps in Toss · Canvas</code><br/><br/><a href="https://app.notion.com/p/3d5694a294028174b4f9f218e078022c">프로젝트 스토리 ↗</a></td></tr>
+<tr><td width="30%"><strong>📰 <a href="https://github.com/LibrumLego/ai-news-summarizer">AI News Insight</a></strong><br/><sub>FROM URL TO INSIGHT</sub></td><td>뉴스 URL을 입력하고 요약 결과를 확인하는 Next.js 웹 인터페이스.<br/><br/><code>Next.js · React · TypeScript · Tailwind CSS</code><br/><br/><a href="https://app.notion.com/p/3b7694a2940281c7975ad44bd56bf22f">프로젝트 스토리 ↗</a></td></tr>
+<tr><td width="30%"><strong>📱 <a href="https://github.com/LibrumLego/Clicker">Clicker</a></strong><br/><sub>SMALL UTILITY. CLEAR INTERACTION.</sub></td><td>여러 카운터의 이름·색상·증가량을 설정하고 빠르게 조작하는 Android 유틸리티.<br/><br/><code>Kotlin · Android · ViewModel · SharedPreferences · AdMob</code><br/><br/><a href="https://app.notion.com/p/3b7694a294028133a6cad7028df677ef">프로젝트 스토리 ↗</a></td></tr>
+</table>
 
-| 프로젝트 | 한 줄 소개 | 기술 |
-| --- | --- | --- |
-| [일단보류 · Hold First](https://github.com/LibrumLego/hold-first) | 충동구매를 기록·숙려·재결정으로 늦추는 앱인토스 소비 코칭 미니앱 | React · TypeScript · Apps in Toss |
-| [원곡 보더리스](https://github.com/LibrumLego/wongok-borderless) | 안산 원곡동 다문화거리의 음식·문화·도보 코스를 연결하는 다국어 관광 서비스 | Next.js · TypeScript · Kakao Maps |
-| [TOMA](https://github.com/LibrumLego/Toma) | 텍스트·음성·사진·링크를 레시피로 바꾸는 AI 주방 도우미 | Kotlin · Jetpack Compose · OpenAI |
-| [Tremor Station](https://github.com/LibrumLego/tremor-station) | 손떨림을 측정하고 기록하는 앱인토스 미니앱 | React · TypeScript · Vite |
-| [Bullet Reclaimer](https://github.com/LibrumLego/bullet-reclaimer) | 시간을 멈추고 단 한 발의 도탄을 설계하는 액션 게임 | Phaser · TypeScript · GitHub Pages |
-| [AI News Insight](https://github.com/LibrumLego/ai-news-summarizer) | 뉴스 URL에서 제목과 핵심 내용을 요약하는 웹 서비스 | Next.js · React · AWS Lambda |
-| [Clicker](https://github.com/LibrumLego/Clicker) | 여러 카운터를 빠르게 만들고 조작하는 Android 유틸리티 | Kotlin · Android · AdMob |
+## How I build
 
-## 작업 방식
+| 01 · 사용자 흐름 | 02 · 상태와 데이터 | 03 · 확인 가능한 결과 |
+| :--- | :--- | :--- |
+| 입력부터 결과·재방문까지 화면 흐름을 나눕니다. | 로딩·실패·권한과 외부 API 응답을 함께 다룹니다. | 코드, 실행 방법, 데모와 프로젝트 설명을 연결합니다. |
 
-- 사용자 흐름을 `입력 → 처리 → 결과 → 재방문`으로 쪼개고 화면과 상태를 함께 설계합니다.
-- 외부 API와 SDK는 실패·로딩·권한·비용까지 포함해 제품 경험으로 다룹니다.
-- README, 실행 방법, 검증 명령을 함께 정리해 다른 사람이 바로 확인할 수 있게 합니다.
+## Toolkit
 
-## 관심 기술
+**Android** — Kotlin · Jetpack Compose · ViewModel · Room  
+**Web** — TypeScript · React · Next.js · Vite  
+**Integrations** — OpenAI API · Apps in Toss · Firebase · AWS Lambda 연동
 
-`Kotlin` `Jetpack Compose` `Android` `React` `TypeScript` `Next.js` `Vite` `OpenAI API` `AWS Lambda` `Apps in Toss` `Vercel`
+<details>
+<summary>More projects</summary>
 
-## 연락
+- [일단보류 · Hold First](https://github.com/LibrumLego/hold-first) — 소비 기록·숙려·재결정 흐름을 다루는 미니앱
+- [원곡 보더리스](https://github.com/LibrumLego/wongok-borderless) — 음식·문화·도보 코스를 연결하는 관광 서비스
 
-프로젝트 협업이나 제품 개발 이야기는 GitHub를 통해 편하게 연락 주세요.
+공개 여부와 열람 권한에 따라 위 저장소 접근이 제한될 수 있습니다.
+
+</details>
+
+---
+
+<sub>Jimin Kook · LibrumLego / Android · Web · AI</sub>
