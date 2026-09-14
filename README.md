@@ -1,62 +1,124 @@
-![Jimin Kook — Developer Portfolio](portfolio-banner.svg)
+![Jimin Kook — Product-minded Software Developer](portfolio-banner.svg)
 
 <div align="center">
-<h3>아이디어를, 직접 써볼 수 있는 경험으로.</h3>
-<p>안녕하세요, 국지민입니다.<br/>Android 앱과 웹 인터랙션을 만들고, AI와 외부 API를 사용자 흐름에 연결합니다.</p>
-<p><a href="https://app.notion.com/p/3b7694a294028144a9a1de534fa21cb3"><strong>Notion Portfolio ↗</strong></a> · <a href="https://librumlego.github.io/bullet-reclaimer/">Play a project ↗</a></p>
+  <sub>PRODUCT-MINDED SOFTWARE DEVELOPER</sub>
+  <h2>데이터와 상태를 정리해, 끝까지 동작하는 제품을 만듭니다.</h2>
+  <p>
+    Kotlin·Android와 React·TypeScript를 중심으로<br/>
+    AI, 외부 API, 센서 데이터를 실제 사용자 흐름에 연결합니다.
+  </p>
+  <p>
+    <a href="https://github.com/LibrumLego/Toma"><strong>TOMA</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/LibrumLego/tremor-station"><strong>Tremor Station</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://librumlego.github.io/bullet-reclaimer/"><strong>Playable Project</strong></a>
+  </p>
 </div>
 
-## Selected work
+---
+
+## What I bring
+
+| 데이터 구조 | 안정적인 상태 흐름 | 완성하고 배포하는 힘 |
+| :--- | :--- | :--- |
+| 서로 다른 입력을 공통 모델로 정리해 화면·저장·후속 기능에서 재사용합니다. | 로딩, 실패, 권한, 늦은 응답과 실행 환경 차이를 정상 흐름과 함께 설계합니다. | 팀 기능 통합부터 플랫폼 검증, 문서화와 배포까지 결과물로 마무리합니다. |
+
+<div align="center">
+  <kbd>4인 팀장</kbd>&nbsp;&nbsp;
+  <kbd>8개 공통 데이터 필드</kbd>&nbsp;&nbsp;
+  <kbd>캡스톤 A0</kbd>&nbsp;&nbsp;
+  <kbd>앱인토스 출시</kbd>&nbsp;&nbsp;
+  <kbd>GitHub Pages 자동 배포</kbd>
+</div>
+
+## Featured projects
 
 <table>
-<tr><td width="30%"><strong>🍳 <a href="https://github.com/LibrumLego/Toma">TOMA</a></strong><br/><sub>AI KITCHEN ASSISTANT</sub></td><td>텍스트·음성·사진·링크를 레시피와 조리 흐름으로 연결하는 Android 앱.<br/><br/><code>Kotlin · Jetpack Compose · Room · OpenAI API</code><br/><br/><a href="https://app.notion.com/p/3b7694a2940281ebba01d45143ddacb9">프로젝트 스토리 ↗</a></td></tr>
-<tr><td width="30%"><strong>🎮 <a href="https://github.com/LibrumLego/bullet-reclaimer">Bullet Reclaimer</a></strong><br/><sub>ONE BULLET. EVERY DECISION.</sub></td><td>시간을 멈춰 도탄을 설계하고, 단 한 발의 탄환을 직접 회수하는 웹 액션 게임.<br/><br/><code>TypeScript · Phaser 3 · Vite · GitHub Pages</code><br/><br/><a href="https://app.notion.com/p/3b7694a29402810e9b12d686ce72df94">프로젝트 스토리 ↗</a> · <a href="https://librumlego.github.io/bullet-reclaimer/">Live demo ↗</a></td></tr>
-<tr><td width="30%"><strong>〰️ <a href="https://github.com/LibrumLego/tremor-station">Tremor Station</a></strong><br/><sub>MOTION INTO INTERACTION</sub></td><td>센서 입력을 파형·게이지·결과·기록으로 보여 주는 앱인토스 미니앱.<br/><br/><code>React · TypeScript · Vite · Apps in Toss · Canvas</code><br/><br/><a href="https://app.notion.com/p/3d5694a294028174b4f9f218e078022c">프로젝트 스토리 ↗</a></td></tr>
-<tr><td width="30%"><strong>📰 <a href="https://github.com/LibrumLego/ai-news-summarizer">AI News Insight</a></strong><br/><sub>FROM URL TO INSIGHT</sub></td><td>뉴스 URL을 입력하고 요약 결과를 확인하는 Next.js 웹 인터페이스.<br/><br/><code>Next.js · React · TypeScript · Tailwind CSS</code><br/><br/><a href="https://app.notion.com/p/3b7694a2940281c7975ad44bd56bf22f">프로젝트 스토리 ↗</a></td></tr>
-<tr><td width="30%"><strong>📱 <a href="https://github.com/LibrumLego/Clicker">Clicker</a></strong><br/><sub>SMALL UTILITY. CLEAR INTERACTION.</sub></td><td>여러 카운터의 이름·색상·증가량을 설정하고 빠르게 조작하는 Android 유틸리티.<br/><br/><code>Kotlin · Android · ViewModel · SharedPreferences · AdMob</code><br/><br/><a href="https://app.notion.com/p/3b7694a294028133a6cad7028df677ef">프로젝트 스토리 ↗</a></td></tr>
+  <tr>
+    <td width="24%">
+      <sub>ANDROID · TEAM PROJECT</sub><br/>
+      <h3><a href="https://github.com/LibrumLego/Toma">TOMA</a></h3>
+      <code>Kotlin</code> <code>Compose</code> <code>Room</code>
+    </td>
+    <td>
+      <strong>여러 형태의 입력을 하나의 레시피 데이터 계약으로 통합한 AI 주방 도우미</strong><br/><br/>
+      4인 팀장으로 아키텍처와 데이터 흐름을 맡았습니다. 텍스트·웹·블로그·유튜브·이미지 분석 결과를 8개 핵심 필드로 정규화해 상세 화면, Room 저장, 음성 안내와 추천 타이머에서 같은 구조를 사용하도록 연결했습니다.<br/><br/>
+      <sub>RESULT · 팀 기능 통합 · 캡스톤디자인 A0</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <sub>WEB · RELEASED PRODUCT</sub><br/>
+      <h3><a href="https://github.com/LibrumLego/tremor-station">Tremor Station</a></h3>
+      <code>React</code> <code>TypeScript</code> <code>Vite</code>
+    </td>
+    <td>
+      <strong>센서 입력을 측정·해석·기록 흐름으로 만든 앱인토스 미니앱</strong><br/><br/>
+      센서 권한, 실시간 파형, 결과 저장을 상태로 분리했습니다. 센서 이벤트 부재와 백그라운드 전환에 대응해 멈춘 화면이나 잘못된 기록이 남지 않도록 처리하고 실제 플랫폼 출시까지 완료했습니다.<br/><br/>
+      <sub>RESULT · 개인 기획·개발·검증 · 앱인토스 출시</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <sub>GAME · PLAYABLE BUILD</sub><br/>
+      <h3><a href="https://github.com/LibrumLego/bullet-reclaimer">Bullet Reclaimer</a></h3>
+      <code>Phaser 3</code> <code>TypeScript</code> <code>CI/CD</code>
+    </td>
+    <td>
+      <strong>시간을 멈추고 단 한 발의 도탄 경로를 설계하는 웹 액션 게임</strong><br/><br/>
+      충돌과 반사 계산을 화면 코드에서 분리하고, 모서리 충돌과 연속 반사 같은 경계 조건을 검증했습니다. GitHub Actions로 빌드와 Pages 배포를 자동화해 바로 플레이할 수 있는 결과물로 공개했습니다.<br/><br/>
+      <a href="https://librumlego.github.io/bullet-reclaimer/"><strong>Play live ↗</strong></a>
+    </td>
+  </tr>
 </table>
 
-## Competition experience
+## Engineering focus
 
-| 대회 / 프로젝트 | 참여 내용 | 진행·결과 |
-| :--- | :--- | :--- |
-| 2026 관광데이터 활용 공모전 · 원곡 보더리스 | 원곡동 다문화거리의 지도 검색, 다국어 안내, AI 추천, 도보 코스와 GPS 스탬프를 연결하는 웹 서비스 | 진행 중 |
-| NAN 2026 · [Bullet Reclaimer](https://github.com/LibrumLego/bullet-reclaimer) | AI 도구를 활용한 웹 액션 게임 제작, 게임 규칙 구체화와 동작 검증 | 참가 완료 · 본선 미진출 |
-| NYPC Master Qualification Round · AnsanDreas | LLM을 활용한 전략 봇 개선 과정에서 패배 로그 분석, 이전 버전과의 반복 대전 및 결과 비교 | 예선 참가 완료 · 본선 미진출 |
+```text
+Input / Event
+      ↓
+Normalize data ──→ Model state ──→ UI & storage
+      ↓                  ↓
+Validate failure     Verify on target environment
+```
 
-### NYPC Master · 로그에서 실패 원인을 찾고 비교 대전으로 검증하기
+- **Data contracts** — 입력 방식이 달라도 후속 기능은 같은 모델을 사용하도록 구조를 먼저 정합니다.
+- **Failure-aware UX** — 성공 화면뿐 아니라 빈 결과, 권한 거부, API 실패와 재시도 흐름을 구현합니다.
+- **Evidence over claims** — README, 실행 방법, 테스트 기준, 데모와 배포 결과로 작업 범위를 확인할 수 있게 합니다.
 
-AnsanDreas 팀으로 참가해 LLM을 활용한 전략 봇의 개선과 검증에 참여했습니다. 패배 리플레이를 턴별로 재구성하고 병력 수, 초반 방어, 자원 사용과 행동 조건을 비교했습니다.
+## Technology
 
-- **로그 분석:** 패배 9판에서 병력 부족이 반복되는 것을 확인하고, 골드가 남아도 훈련 상한이나 실행 조건 때문에 병력을 확보하지 못하는 상황을 살폈습니다.
-- **버전 비교:** 82126과 84723의 직접 대전에서 82126이 27:9로 우세한 결과를 확인했습니다. 새 버전이라는 이유만으로 채택하지 않고 기존 버전과 비교해 판단했습니다. 이 수치는 내부 비교 결과이며 공식 대회 성적이 아닙니다.
-- **평가의 한계:** 방어형 봇끼리 반복 대전하면 무승부가 많아지고 내부 비교만으로는 전략의 범용성을 판단하기 어렵다는 점을 확인했습니다.
-- **배운 점:** AI가 제안한 로직을 곧바로 개선으로 간주하지 않고, 실제 실행과 로그를 확인하며 회귀 여부를 검증해야 한다는 기준을 얻었습니다.
-
-코드 작성과 분석에는 LLM을 활용했습니다. 위 내용은 팀 리플레이 중 제 이름으로 기록된 분석과 비교 경험을 정리한 것이며, 팀원 개인의 구현 성과와 구분했습니다.
-
-## How I build
-
-| 01 · 사용자 흐름 | 02 · 상태와 데이터 | 03 · 확인 가능한 결과 |
-| :--- | :--- | :--- |
-| 입력부터 결과·재방문까지 화면 흐름을 나눕니다. | 로딩·실패·권한과 외부 API 응답을 함께 다룹니다. | 코드, 실행 방법, 데모와 프로젝트 설명을 연결합니다. |
-
-## Toolkit
-
-**Android** — Kotlin · Jetpack Compose · ViewModel · Room  
-**Web** — TypeScript · React · Next.js · Vite  
-**Integrations** — OpenAI API · Apps in Toss · Firebase · AWS Lambda 연동
+| Area | Stack |
+| :--- | :--- |
+| Android | Kotlin · Jetpack Compose · ViewModel · Room |
+| Web | TypeScript · React · Next.js · Vite · Canvas |
+| Integration | REST API · OpenAI API · Firebase · AWS Lambda · Apps in Toss |
+| Workflow | Git · GitHub Actions · Vercel · GitHub Pages |
 
 <details>
-<summary>More projects</summary>
+<summary><strong>Additional work</strong></summary>
 
-- [일단보류 · Hold First](https://github.com/LibrumLego/hold-first) — 소비 기록·숙려·재결정 흐름을 다루는 미니앱
-- [원곡 보더리스](https://github.com/LibrumLego/wongok-borderless) — 음식·문화·도보 코스를 연결하는 관광 서비스
+| Project | What it demonstrates |
+| :--- | :--- |
+| [AI News Insight](https://github.com/LibrumLego/ai-news-summarizer) | 외부 API 응답 형식 정규화, 로딩·중복 요청·실패 상태 처리 |
+| [Clicker](https://github.com/LibrumLego/Clicker) | Android 상태 관리, 사용자 설정 저장, 배포 흐름 고려 |
+| [일단보류 · Hold First](https://github.com/LibrumLego/hold-first) | 소비 기록·숙려·재결정으로 이어지는 행동 흐름 설계 |
+| [원곡 보더리스](https://github.com/LibrumLego/wongok-borderless) | 다국어 관광 정보, 지도 검색, AI 추천과 도보 코스 연결 |
 
-공개 여부와 열람 권한에 따라 위 저장소 접근이 제한될 수 있습니다.
+</details>
+
+<details>
+<summary><strong>Experiments & competitions</strong></summary>
+
+- **NAN 2026 Game × AI Hackathon** — Bullet Reclaimer 제작 및 제출
+- **NYPC Master Qualification Round** — 패배 로그 9판 분석, 전략 봇 버전 간 반복 대전과 회귀 검증
+- **2026 관광데이터 활용 공모전** — 원곡 보더리스 개발 진행
 
 </details>
 
 ---
 
-<sub>Jimin Kook · LibrumLego / Android · Web · AI</sub>
+<div align="center">
+  <sub>JIMIN KOOK · ANDROID / WEB / AI-INTEGRATED PRODUCTS</sub>
+</div>
