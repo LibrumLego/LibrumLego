@@ -101,10 +101,11 @@ Validate failure     Verify on target environment
 
 | Project | What it demonstrates |
 | :--- | :--- |
+| [AI Wardrobe](https://github.com/LibrumLego/ai-wardrobe-portfolio) | IndexedDB 기반 로컬 우선 저장, AI 비용 제어, 사용자 검토를 포함한 추천 흐름 |
 | [AI News Insight](https://github.com/LibrumLego/ai-news-summarizer) | 외부 API 응답 형식 정규화, 로딩·중복 요청·실패 상태 처리 |
 | [Clicker](https://github.com/LibrumLego/Clicker) | Android 상태 관리, 사용자 설정 저장, 배포 흐름 고려 |
 | [일단보류 · Hold First](https://github.com/LibrumLego/hold-first) | 소비 기록·숙려·재결정으로 이어지는 행동 흐름 설계 |
-| [원곡 보더리스](https://github.com/LibrumLego/wongok-borderless) | 다국어 관광 정보, 지도 검색, AI 추천과 도보 코스 연결 |
+| [원곡 보더리스](https://github.com/LibrumLego/wongok-borderless-portfolio) | 6개 언어 관광 정보, 지도 검색, AI 추천과 GPS 스탬프 투어 연결 |
 
 </details>
 
