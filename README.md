@@ -9,7 +9,7 @@
     &nbsp;·&nbsp;
     <a href="https://wongok-borderless.vercel.app"><strong>원곡 보더리스 · Live</strong></a>
     &nbsp;·&nbsp;
-    <a href="https://www.notion.so/3b7694a294028144a9a1de534fa21cb3"><strong>Notion Portfolio</strong></a>
+    <a href="https://chip-crown-ae1.notion.site/Frontend-Web-Portfolio-3eb694a29402815999c4f28e405c4e58"><strong>Notion Portfolio</strong></a>
   </p>
 </div>
 
@@ -38,7 +38,7 @@
 | :--- | :--- | :--- |
 | **일단보류 · Hold First** | 개인 기획·개발·앱인토스 출시. React·TypeScript로 기록 → 숙려 → 재결정 흐름을 구현하고, 플랫폼 Storage와 브라우저 저장소의 차이를 어댑터로 분리했습니다. | [공개 포트폴리오](https://github.com/LibrumLego/hold-first-portfolio) · [설계](https://github.com/LibrumLego/hold-first-portfolio/blob/main/ARCHITECTURE.md) · [코드 발췌](https://github.com/LibrumLego/hold-first-portfolio/blob/main/CODE_EXCERPTS.md) |
 | **원곡 보더리스** | 팀 프로젝트. 49개 장소·6개 언어의 관광 정보를 지도·검색·AI 안내로 연결했습니다. Next.js 서버 API 경로, 지도·카드 연동, Zustand 기반 즐겨찾기·스탬프 상태와 저장을 확인할 수 있습니다. | [Live](https://wongok-borderless.vercel.app) · [공개 코드·데모 순서](https://github.com/LibrumLego/wongok-borderless-portfolio) |
-| **TOMA · AI 요리 보조 앱** | 4인 캡스톤 팀장. 여러 입력을 레시피 공통 데이터와 저장·조리 흐름으로 연결했습니다. 개인 역할과 팀 공동 결과물을 구분해 문서화했습니다. | [역할·구조·실행 방법](https://github.com/LibrumLego/Toma) · [프로젝트 상세](https://app.notion.com/p/3b7694a2940281ebba01d45143ddacb9) |
+| **TOMA · AI 요리 보조 앱** | 4인 캡스톤 팀장. 여러 입력을 레시피 공통 데이터와 저장·조리 흐름으로 연결했습니다. 개인 역할과 팀 공동 결과물을 구분해 문서화했습니다. | [역할·구조·실행 방법](https://github.com/LibrumLego/Toma) · [프로젝트 상세](https://chip-crown-ae1.notion.site/Frontend-Web-Portfolio-3eb694a29402815999c4f28e405c4e58) |
 
 ### 먼저 볼 구현 판단
 
