@@ -37,8 +37,8 @@
 | 프로젝트 | 내 역할과 구현 경험 | 확인할 자료 |
 | :--- | :--- | :--- |
 | **일단보류 · Hold First** | 개인 기획·개발·앱인토스 출시. React·TypeScript로 기록 → 숙려 → 재결정 흐름을 구현하고, 플랫폼 Storage와 브라우저 저장소의 차이를 어댑터로 분리했습니다. | [공개 포트폴리오](https://github.com/LibrumLego/hold-first-portfolio) · [설계](https://github.com/LibrumLego/hold-first-portfolio/blob/main/ARCHITECTURE.md) · [코드 발췌](https://github.com/LibrumLego/hold-first-portfolio/blob/main/CODE_EXCERPTS.md) |
-| **원곡 보더리스** | 팀 프로젝트. 49개 장소·6개 언어의 관광 정보를 지도·검색·AI 안내로 연결했습니다. Next.js 서버 API 경로, 지도·카드 연동, Zustand 기반 즐겨찾기·스탬프 상태와 저장을 확인할 수 있습니다. | [Live](https://wongok-borderless.vercel.app) · [공개 코드·데모 순서](https://github.com/LibrumLego/wongok-borderless-portfolio) |
-| **TOMA · AI 요리 보조 앱** | 4인 캡스톤 팀장. 여러 입력을 레시피 공통 데이터와 저장·조리 흐름으로 연결했습니다. 개인 역할과 팀 공동 결과물을 구분해 문서화했습니다. | [역할·구조·실행 방법](https://github.com/LibrumLego/Toma) · [프로젝트 상세](https://chip-crown-ae1.notion.site/Frontend-Web-Portfolio-3eb694a29402815999c4f28e405c4e58) |
+| **원곡 보더리스** | 2인 팀 프로젝트 (국지민·박재현) · 서비스 기획과 전체 웹 구현 담당. 49개 장소·6개 언어의 관광 정보를 지도·검색·AI 안내로 연결했습니다. Next.js 서버 API 경로, 지도·카드 연동, Zustand 기반 즐겨찾기·스탬프 상태와 저장을 확인할 수 있습니다. | [Live](https://wongok-borderless.vercel.app) · [공개 코드·데모 순서](https://github.com/LibrumLego/wongok-borderless-portfolio) |
+| **TOMA · AI 요리 보조 앱** | 4인 캡스톤 팀장 (국지민·윤도현·배연진·정호진) · 시스템 아키텍처와 서버 데이터 설계 총괄. 여러 입력을 레시피 공통 데이터와 저장·조리 흐름으로 연결했습니다. 개인 역할과 팀 공동 결과물을 구분해 문서화했습니다. | [역할·구조·실행 방법](https://github.com/LibrumLego/Toma) · [프로젝트 상세](https://chip-crown-ae1.notion.site/Frontend-Web-Portfolio-3eb694a29402815999c4f28e405c4e58) |
 
 ### 먼저 볼 구현 판단
 
@@ -73,11 +73,9 @@
 
 | Project | What it demonstrates |
 | :--- | :--- |
-| [AI Wardrobe](https://github.com/LibrumLego/ai-wardrobe-portfolio) | IndexedDB 기반 로컬 우선 저장, AI 비용 제어, 사용자 검토를 포함한 추천 흐름 |
-| [AI News Insight](https://github.com/LibrumLego/ai-news-summarizer) | 외부 API 응답 형식 정규화, 로딩·중복 요청·실패 상태 처리 |
-| [Clicker](https://github.com/LibrumLego/Clicker) | Android 상태 관리, 사용자 설정 저장, 배포 흐름 고려 |
-| [일단보류 · Hold First](https://github.com/LibrumLego/hold-first-portfolio) | 소비 기록·숙려·재결정으로 이어지는 행동 흐름 설계 |
-| [원곡 보더리스](https://github.com/LibrumLego/wongok-borderless-portfolio) | 6개 언어 관광 정보, 지도 검색, AI 추천과 GPS 스탬프 투어 연결 |
+| [AI Wardrobe](https://github.com/LibrumLego/ai-wardrobe-portfolio) | 개인 프로젝트 · IndexedDB 기반 로컬 우선 저장, AI 비용 제어, 사용자 검토를 포함한 추천 흐름 |
+| [AI News Insight](https://github.com/LibrumLego/ai-news-summarizer) | 개인 프로젝트 · AWS Lambda 연동, 외부 API 응답 형식 정규화, 로딩·중복 요청·실패 상태 처리 |
+| [Clicker](https://github.com/LibrumLego/Clicker) | 개인 프로젝트 · Android 상태 관리, 사용자 설정 저장, AdMob 연동 |
 
 </details>
 
